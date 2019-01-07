@@ -1,14 +1,14 @@
 {
-  "name": "homelike-assignment-server",
-  "description": "Homelike server for assignment",
+  "name": "graphql-demo",
+  "description": "",
   "version": "1.0.0",
   "main": "src",
   "keywords": [
     "feathers"
   ],
   "author": {
-    "name": "Homelike Devs",
-    "email": "devs@homelike.cc"
+    "name": "",
+    "email": ""
   },
   "contributors": [],
   "bugs": {},
