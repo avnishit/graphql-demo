@@ -1,9 +1,3 @@
-#RESPONSE at end of file
-..................................
-#  server for assignment
-
-## Background information
-
 ###run
 - edit /config/default.json
 - npm install
